@@ -1,0 +1,79 @@
+.main-block-Login{
+    background-image: url("https://wallpapercave.com/wp/wp6140298.jpg") ;
+    height:100%;
+
+}
+.navbar{
+    width: 100%;
+    background-color: rgb(59, 59, 58);
+    height: 7vh;
+    display: -webkit-flex;
+}
+.navElt{
+    display: inline-block;
+    align-items: flex-start;
+    margin-right: 20px;
+    color: darkgoldenrod;
+}
+.smaller-block-Login{
+    display: flexbox;
+
+    background-color: rgba(255, 255, 255, 1);
+    display: inline-block;
+    margin-top: 20vh;
+    margin-bottom: 29vh;
+    padding: 100px;
+    border: 0px;
+    border-radius: 20px;
+    box-shadow: 2px 1px 20px 3px ;
+}
+label{
+    
+    display: -webkit-flex;
+    margin: 0;
+  }
+  .container{
+      
+  }
+  .in-Login{
+      display: flex;
+      border-radius: 5px;
+      margin-bottom: 10px;
+    margin-top: -10px;
+      
+      
+      display: flexbox;
+  }
+
+  a{
+      color:black;
+  font: bold;
+  
+  }
+  .sButton-Login{
+      display: -webkit-flex;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      border-radius: 5px;
+      
+      
+      border-width: 0px;
+     justify-content: safe;
+     
+  
+  }
+
+
+ 
+
+
+  /*.sButton-Login:hover{
+      background-color: rgb(240, 209, 35);
+      cursor: pointer;
+      -webkit-transition-duration: 0.8s; 
+    transition-duration: 0.8s;
+    text-decoration: none;
+    overflow: hidden;
+    
+  }*/
+  

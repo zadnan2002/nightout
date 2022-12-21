@@ -1,0 +1,104 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serifs;
+    
+  }
+  .main-block-admin{
+    background-color:rgb(255, 255, 255);
+      position: relative;
+      height: 120vh;
+ 
+     
+  }
+  
+  h1{
+     margin-top: 0px;
+     text-align: center;
+  }
+  
+  .smaller-block-admin{
+      background-color: rgb(255, 255, 255);
+      display:flexbox;
+      margin-top: 10px;
+      margin-bottom: 5vh;
+      padding: 100px;
+      border: 0px;
+      border-radius: 20px;
+      
+  }
+  label{
+      
+    display: -webkit-flex;
+    
+  }
+  .container{
+   
+      display: flex;
+      border-radius: 5px;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      display: flexbox; 
+  }
+  .container-admin{
+    display: flex;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    display: flexbox; 
+  }
+  .in{
+      display: flex;
+      border-radius: 5px;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      height: 20px;
+      border-style: solid;
+      border-width: thin;
+      display: flexbox;
+      
+  }
+  #dob{
+      border-radius: 5px;
+      margin-bottom: 10px;
+      margin-top: 10px;
+      height: 28px;
+      width: 170px;;
+  
+  
+  }
+  a{
+      color:black;
+  font: bold;
+  
+  }
+  .sButton{
+      display: -webkit-flex;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      border-radius: 5px;
+      
+      height: 23px;
+      border-width: 0px;
+     justify-content: safe;
+     
+  
+  }
+  .sButton:hover{
+      background-color: rgb(240, 209, 35);
+      cursor: pointer;
+      -webkit-transition-duration: 0.8s; 
+    transition-duration: 0.8s;
+    text-decoration: none;
+    overflow: hidden;
+    
+  }
+  
+  .button-container-admin{
+    display: flex;
+    width: 100%;
+    align-content: flex-start;
+
+  }
+  .link{
+      
+  }
